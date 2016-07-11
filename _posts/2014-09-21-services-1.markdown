@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: titanic.jpg
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: An data exploration on the Kaggle Titanic dataset:<br>
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  In this notebook, we sink into Kaggle's Titanic dataset (pun intended) in order to get an understanding of the demographics of the passengers on board. Hop along!
