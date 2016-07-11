@@ -169,6 +169,7 @@ header .technology{
 	margin-top:10px;
 	margin-bottom:10px;
 	padding-top: 50px;
+	padding-bottom: 50px;
 }
 
 header .technology h4{
@@ -189,11 +190,11 @@ header .technology span {
 
 .br-white{
 	/*background:#fff !important;*/
-	background:#262626 !important;
-	border-style: 4px solid;
+	/*background:#262626 !important;*/
+	border-style: 2px solid;
 	border-color: #262626;
     	/*border-radius: 5px;*/
-    	color: #ffffff;
+    	/*color: #ffffff;*/
     	text-align: center;
 
 }
