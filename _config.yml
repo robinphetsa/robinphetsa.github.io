@@ -29,7 +29,10 @@ social:
  #   url: https://twitter.com/robinphetsavong#
   - title: github
     url: https://github.com/robinphetsa
+    text: Github
   - title: linkedin
     url: https://www.linkedin.com/in/robin-phetsavong-931003a1
+    text: LinkedIn
   - title: mobile
     url: #
+    text: 559-259-4706
