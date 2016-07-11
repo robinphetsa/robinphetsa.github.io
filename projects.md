@@ -1,1 +1,5 @@
-#h1
+---
+layout: page
+title: Projects
+permalink: /projects/
+---
