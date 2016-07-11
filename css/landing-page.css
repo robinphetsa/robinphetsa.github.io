@@ -263,3 +263,28 @@ header .technology span {
 	background-color: #CE6E70; 
 	color: white;
 }
+/*------------------------*/
+.background-switch-django:hover { 
+	background-color: #44B78B; 
+	color: white;
+}
+
+.background-switch-python:hover { 
+	background-color: #2b5b84; 
+	color: white;
+}
+
+.background-switch-r:hover { 
+	background-color: #2267E6; 
+	color: white;
+}
+
+.background-switch-asp:hover { 
+	background-color: #38CFFC; 
+	color: white;
+}
+
+.background-switch-excel:hover { 
+	background-color: #239918; 
+	color: white;
+}
