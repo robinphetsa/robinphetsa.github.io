@@ -22,7 +22,8 @@ h6 {
 }
 
 p.about {
-	font-size: 15pt;
+	font-size: 14px;
+	text-aline: left;
 }
 	
 }
