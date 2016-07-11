@@ -22,7 +22,7 @@ h6 {
 }
 
 p.about {
-    font-size: 20px;
+    font-size: 19px;
     font-weight: 400;
     text-align: left;
     text-indent: 50px;
@@ -226,9 +226,6 @@ header .technology span {
 .background-switch-gunmetal:hover { 
 	background-color: #2B2D42; 
 	color: white;
-	font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
-	 font-size: 19px;
-	  font-weight: 300;
 }
 
 .background-switch-coolgrey:hover { 
