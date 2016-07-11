@@ -12,7 +12,7 @@ html {
 
 body,
 h1,
-
+h2,
 h3,
 h4,
 h5,
@@ -21,10 +21,9 @@ h6 {
     font-weight: 700;
 }
 
-h2 {
-	font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
-    font-size: 14pt;
+p.about {
+	font-size: 15pt;
+}
 	
 }
 
