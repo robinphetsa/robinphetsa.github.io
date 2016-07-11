@@ -189,11 +189,14 @@ header .technology h4{
 }
 
 header .technology span {
-	font-size:12px;
+	font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+	/*font-size:12px;*/
 	color:#fff;
 	/*font-weight:bold;*/
 	padding:7px 10px 7px 10px;
 	padding-bottom: 20px;
+		    font-size: 20px;
+    font-weight: 400;
 }
 
 /* Background */
