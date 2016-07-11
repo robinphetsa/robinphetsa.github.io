@@ -33,11 +33,15 @@ social:
   - title: linkedin
     url: https://www.linkedin.com/in/robin-phetsavong-931003a1
     text: LinkedIn
+
+contact:
   - title: mobile
     url: javascript:void(0);
     text: 559-259-4706
   - title: envelope
     url: mailto:robinphetsa@icloud.com;
     text: robinphetsa@icloud.com
+  - title: location-arrow
+    text: Location: LA/Fresno
     
 
