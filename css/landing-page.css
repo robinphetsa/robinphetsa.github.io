@@ -169,7 +169,6 @@ header .technology{
 	margin-top:10px;
 	margin-bottom:10px;
 	padding-top: 50px;
-	padding-bottom: 50px;
 }
 
 header .technology h4{
@@ -184,6 +183,7 @@ header .technology span {
 	color:#fff;
 	/*font-weight:bold;*/
 	padding:7px 10px 7px 10px;
+	padding-bottom: 20px;
 }
 
 /* Background */
