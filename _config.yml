@@ -36,7 +36,8 @@ social:
 
 contact:
   - title: mobile
-    url: javascript:void(0);
+    #url: javascript:void(0);#
+    url: tel:5592594705
     text: 559-259-4706
   - title: envelope
     url: mailto:robinphetsa@icloud.com;
