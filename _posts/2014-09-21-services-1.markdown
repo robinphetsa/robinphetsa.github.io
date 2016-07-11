@@ -1,7 +1,7 @@
 ---
 layout: default
 img: titanic.jpg
-category: Projects
+category: Services
 title: An data exploration on the Kaggle Titanic dataset:<br>
 description: |
 ---
