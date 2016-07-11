@@ -189,12 +189,13 @@ header .technology span {
 
 .br-white{
 	/*background:#fff !important;*/
-	background:#000000 !important;
-	border: 2px solid black;
+	background:#262626 !important;
+	border-style: 2px solid;
+	border-color: #262626;
     	border-radius: 5px;
     	color: #ffffff;
     	text-align: center;
-    	padding-bottom: 10px;
+
 }
 
 .br-black{
