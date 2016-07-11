@@ -165,6 +165,22 @@ p.copyright {
     margin: 15px 0 0;
 }
 
-ul.about {
-    text-align: left
+header .technology{
+	margin-top:10px;
+	margin-bottom:10px;
+	padding-top: 50px;
+}
+
+header .technology h4{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight:bold;
+	display:inline-block;
+	margin-bottom:40px;
+}
+
+header .technology span {
+	font-size:13px;
+	color:#fff;
+	font-weight:bold;
+	padding:5px 8px 5px 8px;
 }
