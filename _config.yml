@@ -25,8 +25,8 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/robinphetsavong
+#  - title: twitter
+ #   url: https://twitter.com/robinphetsavong#
   - title: github
     url: https://github.com/robinphetsa
   - title: linkedin
