@@ -222,7 +222,17 @@ header .technology span {
 
 }
 
-.background-switch:hover { 
-	background-color: lightblue; 
+.background-switch-gunmetal:hover { 
+	background-color: #2B2D42; 
+	color: white;
+}
+
+.background-switch-coolgrey:hover { 
+	background-color: #8D99AE; 
+	color: white;
+}
+
+.background-switch-imperialred:hover { 
+	background-color: #EF233C; 
 	color: white;
 }
