@@ -188,9 +188,11 @@ header .technology span {
 /* Background */
 
 .br-white{
-	background:#fff !important;
+	/*background:#fff !important;*/
+	background:#444 !important;
 	border: 2px solid black;
     	border-radius: 5px;
+    	color: #ffffff;
 }
 
 .br-black{
