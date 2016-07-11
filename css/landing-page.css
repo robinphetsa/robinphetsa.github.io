@@ -220,13 +220,15 @@ header .technology span {
 	font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
 	 font-size: 19px;
 	   font-weight: 300;
-	padding-top: 10 px;
 
 }
 
 .background-switch-gunmetal:hover { 
 	background-color: #2B2D42; 
 	color: white;
+	font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+	 font-size: 19px;
+	  font-weight: 300;
 }
 
 .background-switch-coolgrey:hover { 
