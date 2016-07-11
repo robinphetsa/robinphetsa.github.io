@@ -182,13 +182,15 @@ header .technology span {
 	font-size:13px;
 	color:#fff;
 	font-weight:bold;
-	padding:5px 8px 5px 8px;
+	padding:7px 10px 7px 10px;
 }
 
 /* Background */
 
 .br-white{
 	background:#fff !important;
+	border: 2px;
+    	border-radius: 5px;
 }
 
 .br-black{
