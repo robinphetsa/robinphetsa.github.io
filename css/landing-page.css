@@ -22,8 +22,9 @@ h6 {
 }
 
 p.about {
-	font-size: 14pt;
-	text-align: left;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: left;
 }
 	
 }
