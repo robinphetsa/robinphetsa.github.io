@@ -184,3 +184,53 @@ header .technology span {
 	font-weight:bold;
 	padding:5px 8px 5px 8px;
 }
+
+/* Background */
+
+.br-white{
+	background:#fff !important;
+}
+
+.br-black{
+	background:#444 !important;
+}
+
+.br-grey{
+	background:#bbb !important;
+}
+
+.br-red{
+	background:#f75353 !important;
+}
+
+.br-green{
+	background:#51d466 !important;
+}
+
+.br-lblue{
+	background:#32c8de !important;
+}
+
+.br-blue{
+	background:#609cee !important;
+}
+
+.br-brown{
+	background:#c27256 !important;
+}
+
+.br-pink{
+	background:#eb76cb !important;
+}
+
+.br-orange{
+	background:#f7a253 !important;
+}
+
+.br-yellow{
+	background:#f4e375 !important;
+}
+
+.br-purple{
+	background:#cb79e6 !important;
+}
