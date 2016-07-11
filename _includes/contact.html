@@ -10,8 +10,7 @@
 					<ul class="list-inline banner-social-buttons">
 						{% for social in site.social %}
 						<li>
-							<a href="{{ social.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ social.title }} fa-fw"></i> <span class="network-name">{{ social.title }}</span></a>
-							<a href="#" class="btn btn-default btn-lg"><i class="fa fa-mobile" aria-hidden="true"></i>&nbsp; Mobile: 559-259-4705</a>
+							<a href="{{ social.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ social.title }} fa-fw"></i> <span class="network-name">{{ social.title }}</span><span class="fa fa-mobile" aria-hidden="true">&nbsp; Mobile: 559-259-4705</span></a>
 						</li>
 						{% endfor %}
 					</ul>
