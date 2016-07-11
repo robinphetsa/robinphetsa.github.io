@@ -211,6 +211,7 @@ header .technology span {
     	/*color: #ffffff;*/
     	text-align: center;
     	color: #ff8080;
+    	
 
 }
 
@@ -221,3 +222,4 @@ header .technology span {
 
 }
 
+.background-switch:hover { background-color: lightblue; }
