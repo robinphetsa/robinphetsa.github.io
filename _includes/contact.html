@@ -10,7 +10,7 @@
 					<ul class="list-inline banner-social-buttons">
 						{% for contact in site.contact %}
 						<li>
-							<a href="{{ social.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ social.title }} fa-fw"></i> <span class="network-name">{{ social.text }}</span></a>
+							<a href="{{ contact.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ contact.title }} fa-fw"></i> <span class="network-name">{{ contact.text }}</span></a>
 						</li>
 						{% endfor %}
 					</ul>
