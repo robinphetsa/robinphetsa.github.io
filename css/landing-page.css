@@ -222,4 +222,7 @@ header .technology span {
 
 }
 
-.background-switch:hover { background-color: lightblue; }
+.background-switch:hover { 
+	background-color: lightblue; 
+	color: white;
+}
