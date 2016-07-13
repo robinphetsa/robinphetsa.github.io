@@ -5,4 +5,4 @@ category: Services
 title: An data exploration on the Kaggle Titanic dataset<br>
 description: |
 ---
-  In this notebook, we sink into Kaggle's Titanic dataset (pun intended) in order to get an understanding of the demographics of the passengers on board. [All aboard!](https://github.com/robinphetsa/Data-Science/blob/master/Titanic/Titanic%20-%20Introductory%20Analysis.ipynb)
+  In this notebook, we sink into Kaggle's Titanic dataset (pun intended) in order to get an understanding of the demographics of the passengers on board. [All aboard!](https://github.com/robinphetsa/data-projects/blob/master/Projects/Titanic/An%20exploratory%20analysis%20of%20the%20Titanic%20data%20set.ipynb)
