@@ -5,4 +5,4 @@ category: Services
 title: Time Series Analysis on Global Temperatures
 description: |
 ---
-  In this project we use perform time series analysis on a public data set containing the average global temperatures spanning from 1880 to 1985. I build a time series model to forecast future global temperatures and validate using a series of tests. [Check it out!](/doc/Resume_RP_2016.pdf)
+  In this project we use perform time series analysis on a public data set containing the average global temperatures spanning from 1880 to 1985. I build a time series model to forecast future global temperatures and validate using a series of tests. [Check it out!](/doc/Final_Project_174.pdf)
