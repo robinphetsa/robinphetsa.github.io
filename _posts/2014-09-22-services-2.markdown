@@ -1,10 +1,8 @@
 ---
 layout: default
-img: dog.png
+img: img_full_60515.jpg
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Time Series Analysis on Global Temperatures
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  In this project we use perform time series analysis on a public data set containing the average global temperatures spanning from 1880 to 1985. I build a time series model to forecast future global temperatures and validate using a series of tests. [Check it out!](/doc/Resume_RP_2016.pdf)
