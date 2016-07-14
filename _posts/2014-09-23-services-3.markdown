@@ -1,8 +1,8 @@
 ---
 layout: default
-img: phones.png
+img: Logistic_Curve.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Machine Learning with Scikit-Learn:<br>Logistic Regression
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+In this project, we take the familiar Titanic dataset and apply a Logistic regression model in order to predict who survived. This will be a series of notebooks in which I try different classification algorithims to see which one best fits our needs.[See how well it performs here!](http://nbviewer.jupyter.org/github/robinphetsa/data-projects/blob/master/Projects/Titanic/Logistic%20Regression%20on%20the%20Titanic%20data%20set.ipynb?flush_cache=true)
