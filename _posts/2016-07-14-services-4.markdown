@@ -1,6 +1,6 @@
 ---
 layout: default
-img: Logistic_Curve.png
+img: trees.jpg
 category: Services
 title: Machine Learning with R: Conditional Forest Algorithm
 description: |
