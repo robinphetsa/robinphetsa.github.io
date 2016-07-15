@@ -5,4 +5,4 @@ category: Services
 title: Machine Learning with R: Conditional Forest Algorithm
 description: |
 ---
-In this R script, i apply a conditional forest model onto our Titanic data set to see how well it does in comparison to our first model: the logistic regression model built with SciKit-Learn. [See how it stacks up!](https://github.com/robinphetsa/Data-Science/blob/master/Titanic/CForestTitanic%20-%20Best%20Model.R)
+In this R script, I apply a conditional forest model onto our Titanic data set to see how well it does in comparison to our first model: the logistic regression model built with SciKit-Learn. [See how it stacks up!](https://github.com/robinphetsa/Data-Science/blob/master/Titanic/CForestTitanic%20-%20Best%20Model.R)
