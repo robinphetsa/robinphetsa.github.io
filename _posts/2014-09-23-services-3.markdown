@@ -5,4 +5,4 @@ category: Services
 title: Machine Learning with Scikit-Learn - Logistic Regression
 description: |
 ---
-In this project, we take the familiar Titanic dataset and apply a Logistic regression model in order to predict who survived. This will be a series of notebooks in which I try different classification algorithims to see which one best fits the data. [See how well it performs here!](http://nbviewer.jupyter.org/github/robinphetsa/data-projects/blob/master/Projects/Titanic/Logistic%20Regression%20on%20the%20Titanic%20data%20set.ipynb?flush_cache=true)
+In this project, we take the familiar Titanic dataset and apply a Logistic regression model in order to predict who survived. This will be a series of notebooks in which I try different classification algorithims to see which one best fits the data. [See how well it performs here!](http://github/robinphetsa/data-projects/blob/master/Projects/Titanic/Logistic%20Regression%20on%20the%20Titanic%20data%20set.ipynb)
