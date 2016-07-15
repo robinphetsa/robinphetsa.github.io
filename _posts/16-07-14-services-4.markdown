@@ -1,6 +1,6 @@
 ---
 layout: default
-img: porsche side.jpg
+img: porsche side.png
 category: Services
 title: Predicting Automobile MPG's with the Cash for Clunkers Data Set
 description: |
