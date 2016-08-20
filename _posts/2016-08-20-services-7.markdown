@@ -1,0 +1,8 @@
+---
+layout: default
+img: moneyball-movie.jpg
+category: Services
+title: The Moneyball Tactic - The rise of sabermetrics with the Oakland A's
+description: |
+---
+In this notebook, we dive into the analytics and statistics that the Billy Beane and the Oakland Athletic's took to replace three key offensive players with an extremly limited budget. [Join along!](http://nbviewer.jupyter.org/github/robinphetsa/data-projects/blob/master/Projects/Baseball/SF%20Giants%20Visual%20through%20the%20Ages.ipynb?flush_cache=true)
