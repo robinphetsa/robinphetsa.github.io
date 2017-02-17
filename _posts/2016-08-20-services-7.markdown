@@ -1,0 +1,8 @@
+---
+layout: default
+img: moneyball1.jpg
+category: Services
+title: The Moneyball Tactic - The rise of sabermetrics with the Oakland A's
+description: |
+---
+In this notebook, we dive into the analytics and statistics that the Billy Beane and the Oakland Athletic's took to replace three key offensive players with an extremly limited budget. I am aware that NBViewer is having issues with the MathJax formulas, but it is the only way currently to publish my plotly plots so please bear with me. [Lets get started!](http://nbviewer.jupyter.org/github/robinphetsa/data-projects/blob/master/Projects/MoneyBall/MoneyBall%20Project.ipynb?flush_cache=true)
