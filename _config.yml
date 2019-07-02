@@ -25,8 +25,8 @@ permalink: pretty
 # ----------------------- #
 
 social:
-#  - title: twitter
- #   url: https://twitter.com/robinphetsavong#
+  - title: Wordpress
+    url: https://robinphetsavongdata.wordpress.com
   - title: github
     url: https://github.com/robinphetsa
     text: Github
