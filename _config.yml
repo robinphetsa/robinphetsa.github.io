@@ -25,9 +25,9 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: wordpress
-    url: https://robinphetsavongdata.wordpress.com
-    text: Wordpress
+ # - title: wordpress
+  #  url: https://robinphetsavongdata.wordpress.com
+  #  text: Wordpress
   - title: github
     url: https://github.com/robinphetsa
     text: Github
